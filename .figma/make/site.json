@@ -1,0 +1,10 @@
+{
+  "description": "A responsive website that helps visitors explore content, navigate pages, view image slideshows, and open pop-ups across desktop and mobile.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
